@@ -19,7 +19,3 @@ a table
 \description{
 This function returns a table that can be passed to \code{renderTable} and \code{tableOutput}.
 }
-\examples{
-random_table(10, 10)
-random_table(10, 10, "numeric")
-}

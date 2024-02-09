@@ -15,8 +15,3 @@ a dygraph
 \description{
 This function returns a dygraph object, which can be passed to \code{renderDygraph} and \code{dygraphOutput}
 }
-\examples{
-if(interactive()){
- random_dygraph()
-}
-}

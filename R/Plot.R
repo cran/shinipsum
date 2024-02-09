@@ -11,10 +11,6 @@
 #' @return a ggplot
 #'
 #' @export
-#'
-#' @examples
-#' random_ggplot("point")
-#' random_ggplot("histogram")
 
 random_ggplot <- function(type = c("random", "point", "bar",
                                    "boxplot","col", "tile",

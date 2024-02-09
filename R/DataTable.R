@@ -12,11 +12,8 @@
 #' @importFrom DT datatable
 #' @export
 #'
-#' @examples
-#' if(interactive()){
-#' random_DT(10, 10)
-#' random_DT(10, 10, "numeric")
-#' }
+
+
 random_DT <- function(nrow, ncol,
                       type = c("random", "numeric",
                                "character", "numchar"),

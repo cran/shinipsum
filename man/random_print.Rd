@@ -15,7 +15,3 @@ a random print
 \description{
 This function returns a random print output that can be passed to \code{renderPrint} and \code{verbatimTextOutput}.
 }
-\examples{
-random_print("character")
-random_print("numeric")
-}

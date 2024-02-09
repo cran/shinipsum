@@ -8,9 +8,7 @@
 #'
 #' @return a random print
 #' @export
-#' @examples
-#' random_print("character")
-#' random_print("numeric")
+#'
 
 random_print <- function(type = c("character", "numeric", "integer", "model", "table")) {
   type <- match.arg(type)

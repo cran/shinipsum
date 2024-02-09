@@ -4,11 +4,9 @@
 \name{shinipsum-package}
 \alias{shinipsum}
 \alias{shinipsum-package}
-\title{shinipsum: Lorem-Ipsum Helper Function for 'shiny' Prototyping}
+\title{shinipsum: Lorem-Ipsum-like Helpers for fast Shiny Prototyping}
 \description{
-Prototype your 'shiny' apps quickly with these
-    Lorem-Ipsum helper functions. Generate random elements
-    for 'shiny' outputs that can be used as placeholder in your application.
+Prototype your shiny apps quickly with these Lorem-Ipsum-like Helpers.
 }
 \seealso{
 Useful links:
@@ -19,7 +17,7 @@ Useful links:
 
 }
 \author{
-\strong{Maintainer}: Colin Fay \email{contact@colinfay.me} (\href{https://orcid.org/0000-0001-7343-1846}{ORCID}) [copyright holder]
+\strong{Maintainer}: Colin Fay \email{contact@colinfay.me} (\href{https://orcid.org/0000-0001-7343-1846}{ORCID})
 
 Authors:
 \itemize{

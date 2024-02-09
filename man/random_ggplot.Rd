@@ -19,7 +19,3 @@ a ggplot
 \description{
 This function returns a ggplot object, which can be passed to \code{renderPlot} and \code{plotOutput}
 }
-\examples{
-random_ggplot("point")
-random_ggplot("histogram")
-}

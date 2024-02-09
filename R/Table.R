@@ -8,9 +8,7 @@
 #' @return a table
 #'
 #' @export
-#' @examples
-#' random_table(10, 10)
-#' random_table(10, 10, "numeric")
+#'
 random_table <- function(nrow, ncol,
                          type = c("random", "numeric",
                                   "character", "numchar")){
